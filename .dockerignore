@@ -1,0 +1,8 @@
+.env
+**/.DS_Store
+__MACOSX/
+database/
+.git/
+.gitignore
+.dockerignore
+images/photo.png
